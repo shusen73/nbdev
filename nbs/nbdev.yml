@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://shusen73.github.io/nbdev"
+  description: "nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/shusen73/nbdev"
